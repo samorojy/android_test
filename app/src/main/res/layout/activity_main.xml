@@ -65,8 +65,8 @@
 
             <ImageView
                 android:id="@+id/contentLogo"
-                android:layout_width="84dp"
-                android:layout_height="84dp"
+                android:layout_width="88dp"
+                android:layout_height="88dp"
                 android:layout_marginStart="@dimen/contentSpacing"
                 android:layout_marginTop="@dimen/contentImageTopInset"
                 android:contentDescription="@string/content_logo"
