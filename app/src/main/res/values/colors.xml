@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background_tint">#050B18</color>
+    <color name="content_description_color">#B3EEF2FB</color>
+    <color name="devider">#1A1F29</color>
+    <color name="dim_text_color">#45454D</color>
+    <color name="install_button_background">#F4D144</color>
+    <color name="rating_text_color">#A8ADB7</color>
+    <color name="review_date_color">#66FFFFFF</color>
+    <color name="review_text_color">#A8ADB7</color>
+    <color name="tag_background">#3D44A9F4</color>
+    <color name="tag_text_color">#44A9F4</color>
 </resources>

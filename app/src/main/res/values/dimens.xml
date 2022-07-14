@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contentImageTopInset">-28dp</dimen>
+    <dimen name="contentNameSpacing">12dp</dimen>
+    <dimen name="contentSpacing">24dp</dimen>
+    <dimen name="deviderSideInset">38dp</dimen>
+    <dimen name="deviderTopInset">8dp</dimen>
+    <dimen name="installButtonBottomInset">48dp</dimen>
+    <dimen name="installButtonHeight">64dp</dimen>
+    <dimen name="navigationButtonTopInset">20dp</dimen>
+    <dimen name="navigationButtonSideInset">24dp</dimen>
+    <dimen name="ratingLayoutTopInset">7dp</dimen>
+    <dimen name="ratingScoreInset">6dp</dimen>
+    <dimen name="ratingTopInset">12dp</dimen>
+    <dimen name="reviewLeftInset">16dp</dimen>
+    <dimen name="reviewTextTopInset">16dp</dimen>
+    <dimen name="reviewTopInset">10dp</dimen>
+    <dimen name="scrollViewBottomInset">110dp</dimen>
+    <dimen name="starSpacing">4dp</dimen>
+    <dimen name="secondRatingTopInset">26dp</dimen>
+    <dimen name="secondRatingsLeftInset">16dp</dimen>
+    <dimen name="tagsSpacing">10dp</dimen>
+</resources>
